@@ -1,0 +1,11 @@
+tweets_Iphone.csv
+https://github.com/bdanalytics/Apple-Tweets/blob/master/data/tweets.csv
+
+Apple-Twitter-Sentiment-DFE (1).csv
+https://data.world/crowdflower/apple-twitter-sentiment
+
+Canada_Immigration.csv
+https://data.world/wendyhe/tweets-on-canada-immigration
+
+gender-classifier-DFE-791531.csv
+https://data.world/data-society/twitter-user-data/workspace/file?filename=gender-classifier-DFE-791531.csv
